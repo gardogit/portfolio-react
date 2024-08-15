@@ -1,0 +1,54 @@
+.main-conteiner {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: white;
+  border-radius: 16px;
+  overflow: hidden;
+  min-height: 50px;
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+:root {
+  --padding-horizontal: 20px;
+  --margin-bottom: 8px;
+}
+
+.conteiner-start, 
+.conteiner-mid,
+.conteiner-end,
+.conteiner-unique {
+  width: 100%;
+  padding-left: var(--padding-horizontal);
+  padding-right: var(--padding-horizontal);
+}
+
+.conteiner-start {
+  padding-top: 24px;
+  margin-bottom: var(--margin-bottom);
+}
+
+.conteiner-mid {
+  margin-bottom: var(--margin-bottom);
+}
+
+.conteiner-end {
+  padding-bottom: 24px;
+}
+
+.conteiner-unique {
+  padding: 24px;
+}
+
+.header {
+  background-color: #21005D;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 80px;
+  padding: 0px 24px;
+}
+

@@ -1,0 +1,72 @@
+/* Clases para las fuentes */
+.noto-sans-light {
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300; /* light */
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.noto-sans-normal {
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400; /* Normal */
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.noto-sans-bold {
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700; /* bold */
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+/* Variaciones de Noto Serif */
+.noto-serif-normal {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 400; /* normal */
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.noto-serif-medium {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 600; /* medium */
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.noto-serif-bold {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 700; /* bold */
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.noto-serif-black {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 900; /* black */
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.button {
+  border-radius: 8px;
+  background-color: #34C759;
+  color: #21005D;
+  cursor: pointer;
+  transition: background-color 0.5s ease;
+  padding: 10px 18px;
+  border: none;
+  font-size: 16px;
+}
+
+.button:hover {
+  background-color: #00fa3f;
+}
