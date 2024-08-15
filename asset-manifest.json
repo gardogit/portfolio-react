@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.c45b9487.css",
-    "main.js": "/portfolio-react/static/js/main.dc93daef.js",
+    "main.js": "/portfolio-react/static/js/main.84080322.js",
     "static/media/edo-m.png": "/portfolio-react/static/media/edo-m.03825c139cf4e19038b6.png",
     "index.html": "/portfolio-react/index.html",
     "main.c45b9487.css.map": "/portfolio-react/static/css/main.c45b9487.css.map",
-    "main.dc93daef.js.map": "/portfolio-react/static/js/main.dc93daef.js.map"
+    "main.84080322.js.map": "/portfolio-react/static/js/main.84080322.js.map"
   },
   "entrypoints": [
     "static/css/main.c45b9487.css",
-    "static/js/main.dc93daef.js"
+    "static/js/main.84080322.js"
   ]
 }
