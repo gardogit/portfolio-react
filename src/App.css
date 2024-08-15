@@ -1,4 +1,8 @@
 /* Clases para las fuentes */
+h1 {
+  font-size: 25px;
+}
+
 .noto-sans-light {
   font-family: "Noto Sans", sans-serif;
   font-optical-sizing: auto;
@@ -58,15 +62,17 @@
 
 .button {
   border-radius: 8px;
-  background-color: #34C759;
-  color: #21005D;
+  background-color: #32D583;
+  color: #53389E;
   cursor: pointer;
   transition: background-color 0.5s ease;
   padding: 10px 18px;
   border: none;
   font-size: 16px;
+  font-weight: 600;
 }
 
 .button:hover {
-  background-color: #00fa3f;
+  background-color: #6CE9A6;
+  color: #42307D;
 }

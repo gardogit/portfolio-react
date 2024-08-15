@@ -1,7 +1,7 @@
 // App.js
 import './App.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import ToDoList from './components/ToDoList';
+import ToDoList from './components/to-do/ToDoList';
 import Home from './components/Home';
 
 function App() {
