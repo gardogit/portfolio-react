@@ -6,14 +6,15 @@ import Home from './components/Home';
 
 function App() {
   return (
-    <Router>
+    <Router basename='/portfolio-react'>
       <div className='App'>
         <Routes>
           <Route path='/' element={<Home />} /> 
-          <Route path='/todolist' element={<ToDoList />} />
+          <Route path='/todolist/' element={<ToDoList />} />
         </Routes>
       </div>
     </Router>
+    
   );
 }
 

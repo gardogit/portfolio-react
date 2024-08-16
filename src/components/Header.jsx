@@ -16,9 +16,8 @@ function Header (props) {
         <h1 className='noto-serif-bold'>{props.name}</h1>
       </div>
       <div className='conteiner-unique'>
-      Breve descripción del mini proyecto.
-      </div>
-      
+        { props.desc }
+      </div>      
     </div>
   );
 }

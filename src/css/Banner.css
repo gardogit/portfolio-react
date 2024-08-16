@@ -47,6 +47,11 @@
   transition: background-color 0.5s ease;
 }
 
+.rrss a {
+  color: #53389E;
+  text-decoration: none;
+}
+
 .rrss:hover {
   background-color: #6CE9A6;
   color: #42307D;

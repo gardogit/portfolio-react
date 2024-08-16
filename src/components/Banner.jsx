@@ -12,12 +12,12 @@ function Banner () {
       </div>
       <div className='photo-rrss'>
         <div className='conteiner-photo'>
-          <img className='photo-edo' src={edgardo} alt="profile-photo-Edgardo" />
+          <img className='photo-edo' src={edgardo} alt='profile-photo-Edgardo' />
         </div>
         <div className='conteiner-rrss'>
-          <div className='rrss'><a href="#"><FaLinkedin size={18} /></a></div>
-          <div className='rrss'><a href="#"><FaBehance size={18} /></a></div>
-          <div className='rrss'><a href="#"><FaGithub size={18} /></a></div>
+          <div className='rrss'><a href='https://www.linkedin.com/in/ruizedgardo/' target='_blank' rel='noopener noreferrer'><FaLinkedin size={20} /></a></div>
+          <div className='rrss'><a href='https://www.behance.net/Gardoai' target='_blank' rel='noopener noreferrer'><FaBehance size={20} /></a></div>
+          <div className='rrss'><a href='https://github.com/gardogit' target='_blank' rel='noopener noreferrer'><FaGithub size={20} /></a></div>
         </div>
       </div>
       <div className='conteiner-end'

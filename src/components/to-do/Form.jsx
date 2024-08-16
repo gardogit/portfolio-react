@@ -8,7 +8,7 @@ function Form(props) {
 
   const handleChange = e => {
     setInput(e.target.value);
-    console.log(e.target.value);
+//    console.log(e.target.value);
   };
   const handleSend = e => {
     e.preventDefault();
@@ -25,6 +25,7 @@ function Form(props) {
     <form 
       className='form-task'
       onSubmit={handleSend}
+      autoComplete='off'
     >
       <input 
       type='text'
