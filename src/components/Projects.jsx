@@ -1,18 +1,17 @@
 // src/components/Projects.jsx
-import { useNavigate } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 function Projects() {
-  const navigate = useNavigate();
-
-  const handleButtonClick = () => {
-    navigate('/todolist'); 
-  };
-
   return (
     <div className='main-conteiner'>
       <div className='conteiner-unique'>
         <h2 className='noto-serif-bold'>Proyectos</h2>
-        <button className='button' onClick={handleButtonClick}>To-do List</button>
+        <Link to="/todolist">
+          <button className='button'>To-do List</button>
+        </Link>
+        <Link to="/ecommerce">
+          <button className='button'>E-commerce</button>
+        </Link>
       </div>
     </div>
   );
