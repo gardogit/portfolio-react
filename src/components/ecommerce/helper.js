@@ -1,3 +1,4 @@
+//src/components/ecommerce/helper.js
 import data from './data.json'
 
 export const requestData = () => {
@@ -10,7 +11,7 @@ export const requestData = () => {
 
 export const requestId = (id) => {
   return new Promise((res, rej) => {
-    const item = data.find((e) => e.id === id);
+    const item = data.find((e) => e.id === Number(id));
 
     if (item) {
       res(item)

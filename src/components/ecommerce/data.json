@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "Icemobile G7 Pro",
     "category": "Icemobile",
     "year": 2014,
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "image": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "Sonim XP3 Sentinel",
     "category": "Sonim",
     "year": 2010,
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "vivo S1 (China)",
     "category": "vivo",
     "year": 2019,
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "HTC One XL",
     "category": "HTC",
     "year": 2012,
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "image": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "alcatel OT-228",
     "category": "alcatel",
     "year": 2012,
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "image": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "Microsoft Kin ONEm",
     "category": "Microsoft",
     "year": 2010,
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "image": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "Micromax X260",
     "category": "Micromax",
     "year": 2009,
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "image": "http://dummyimage.com/250x100.png/cc0000/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "Celkon Q455",
     "category": "Celkon",
     "year": 2014,
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-    "image": "http://dummyimage.com/250x100.png/cc0000/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "Toshiba Excite Pure",
     "category": "Toshiba",
     "year": 2013,
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-    "image": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "Energizer Energy E12",
     "category": "Energizer",
     "year": 2019,
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "Samsung T729 Blast",
     "category": "Samsung",
     "year": 2007,
@@ -118,7 +118,7 @@
   },
   {
     "id": 14,
-    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "Sony Xperia go",
     "category": "Sony",
     "year": 2012,
@@ -127,7 +127,7 @@
   },
   {
     "id": 15,
-    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "Sharp 936SH",
     "category": "Sharp",
     "year": 2009,
@@ -136,7 +136,7 @@
   },
   {
     "id": 16,
-    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "Nokia 2.1",
     "category": "Nokia",
     "year": 2018,
@@ -145,7 +145,7 @@
   },
   {
     "id": 17,
-    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "XOLO Era 1X",
     "category": "XOLO",
     "year": 2016,
@@ -154,7 +154,7 @@
   },
   {
     "id": 18,
-    "image": "http://dummyimage.com/250x100.png/cc0000/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "HTC Shift",
     "category": "HTC",
     "year": 2008,
@@ -163,7 +163,7 @@
   },
   {
     "id": 19,
-    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "Huawei P30 lite",
     "category": "Huawei",
     "year": 2019,
@@ -172,7 +172,7 @@
   },
   {
     "id": 20,
-    "image": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "Maxon MX-6869",
     "category": "Maxon",
     "year": 2000,
@@ -181,7 +181,7 @@
   },
   {
     "id": 21,
-    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "Samsung M3510 Beat b",
     "category": "Samsung",
     "year": 2009,
@@ -190,7 +190,7 @@
   },
   {
     "id": 22,
-    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "vivo iQOO Neo",
     "category": "vivo",
     "year": 2019,
@@ -199,7 +199,7 @@
   },
   {
     "id": 23,
-    "image": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "Gionee P7 Max",
     "category": "Gionee",
     "year": 2016,
@@ -226,7 +226,7 @@
   },
   {
     "id": 26,
-    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "Celkon A99",
     "category": "Celkon",
     "year": 2012,
@@ -235,7 +235,7 @@
   },
   {
     "id": 27,
-    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "Micromax Bolt S302",
     "category": "Micromax",
     "year": 2015,
@@ -244,7 +244,7 @@
   },
   {
     "id": 28,
-    "image": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "Panasonic P90",
     "category": "Panasonic",
     "year": 2018,
@@ -253,7 +253,7 @@
   },
   {
     "id": 29,
-    "image": "http://dummyimage.com/250x100.png/cc0000/ffffff",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
     "name": "Samsung i900 Omnia",
     "category": "Samsung",
     "year": 2008,
