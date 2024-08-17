@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "image": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "name": "Icemobile G7 Pro",
+    "category": "Icemobile",
+    "year": 2014,
+    "description": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+    "price": "$570.61M"
+  },
+  {
+    "id": 2,
+    "image": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "name": "Sonim XP3 Sentinel",
+    "category": "Sonim",
+    "year": 2010,
+    "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+    "price": "$1.15B"
+  },
+  {
+    "id": 3,
+    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "name": "vivo S1 (China)",
+    "category": "vivo",
+    "year": 2019,
+    "description": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+    "price": "$1.97B"
+  },
+  {
+    "id": 4,
+    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "name": "HTC One XL",
+    "category": "HTC",
+    "year": 2012,
+    "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "price": "$315.92M"
+  },
+  {
+    "id": 5,
+    "image": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "name": "alcatel OT-228",
+    "category": "alcatel",
+    "year": 2012,
+    "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "price": "$8.15B"
+  },
+  {
+    "id": 6,
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
+    "name": "Micromax Canvas Selfie 4",
+    "category": "Micromax",
+    "year": 2016,
+    "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+    "price": "$327.09M"
+  },
+  {
+    "id": 7,
+    "image": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "name": "Microsoft Kin ONEm",
+    "category": "Microsoft",
+    "year": 2010,
+    "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "price": "$433.25M"
+  },
+  {
+    "id": 8,
+    "image": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "name": "Micromax X260",
+    "category": "Micromax",
+    "year": 2009,
+    "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+    "price": "$48.52M"
+  },
+  {
+    "id": 9,
+    "image": "http://dummyimage.com/250x100.png/cc0000/ffffff",
+    "name": "Celkon Q455",
+    "category": "Celkon",
+    "year": 2014,
+    "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+    "price": "$157.25M"
+  },
+  {
+    "id": 10,
+    "image": "http://dummyimage.com/250x100.png/cc0000/ffffff",
+    "name": "Toshiba Excite Pure",
+    "category": "Toshiba",
+    "year": 2013,
+    "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "price": "$641.08M"
+  },
+  {
+    "id": 11,
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
+    "name": "Micromax Canvas Play Q355",
+    "category": "Micromax",
+    "year": 2015,
+    "description": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+    "price": "$8.81B"
+  },
+  {
+    "id": 12,
+    "image": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "name": "Energizer Energy E12",
+    "category": "Energizer",
+    "year": 2019,
+    "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+    "price": "$498.3M"
+  },
+  {
+    "id": 13,
+    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "name": "Samsung T729 Blast",
+    "category": "Samsung",
+    "year": 2007,
+    "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+    "price": "$2.5B"
+  },
+  {
+    "id": 14,
+    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "name": "Sony Xperia go",
+    "category": "Sony",
+    "year": 2012,
+    "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+    "price": "$234.15M"
+  },
+  {
+    "id": 15,
+    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "name": "Sharp 936SH",
+    "category": "Sharp",
+    "year": 2009,
+    "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+    "price": "$61.03M"
+  },
+  {
+    "id": 16,
+    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "name": "Nokia 2.1",
+    "category": "Nokia",
+    "year": 2018,
+    "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+    "price": "$715.78M"
+  },
+  {
+    "id": 17,
+    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "name": "XOLO Era 1X",
+    "category": "XOLO",
+    "year": 2016,
+    "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+    "price": "$154.07M"
+  },
+  {
+    "id": 18,
+    "image": "http://dummyimage.com/250x100.png/cc0000/ffffff",
+    "name": "HTC Shift",
+    "category": "HTC",
+    "year": 2008,
+    "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+    "price": "$43.5M"
+  },
+  {
+    "id": 19,
+    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "name": "Huawei P30 lite",
+    "category": "Huawei",
+    "year": 2019,
+    "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+    "price": "$93.96M"
+  },
+  {
+    "id": 20,
+    "image": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "name": "Maxon MX-6869",
+    "category": "Maxon",
+    "year": 2000,
+    "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "price": "$28.79M"
+  },
+  {
+    "id": 21,
+    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "name": "Samsung M3510 Beat b",
+    "category": "Samsung",
+    "year": 2009,
+    "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "price": "$90.88M"
+  },
+  {
+    "id": 22,
+    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "name": "vivo iQOO Neo",
+    "category": "vivo",
+    "year": 2019,
+    "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "price": "$32.29M"
+  },
+  {
+    "id": 23,
+    "image": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "name": "Gionee P7 Max",
+    "category": "Gionee",
+    "year": 2016,
+    "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+    "price": "$118.13M"
+  },
+  {
+    "id": 24,
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
+    "name": "Apple iPhone 4s",
+    "category": "Apple",
+    "year": 2011,
+    "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+    "price": "$46.84M"
+  },
+  {
+    "id": 25,
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
+    "name": "ZTE Hawkeye",
+    "category": "ZTE",
+    "year": 0,
+    "description": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+    "price": "$674.13M"
+  },
+  {
+    "id": 26,
+    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "name": "Celkon A99",
+    "category": "Celkon",
+    "year": 2012,
+    "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+    "price": "$54.95M"
+  },
+  {
+    "id": 27,
+    "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    "name": "Micromax Bolt S302",
+    "category": "Micromax",
+    "year": 2015,
+    "description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+    "price": "$2.05B"
+  },
+  {
+    "id": 28,
+    "image": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "name": "Panasonic P90",
+    "category": "Panasonic",
+    "year": 2018,
+    "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+    "price": "$3.73B"
+  },
+  {
+    "id": 29,
+    "image": "http://dummyimage.com/250x100.png/cc0000/ffffff",
+    "name": "Samsung i900 Omnia",
+    "category": "Samsung",
+    "year": 2008,
+    "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "price": "n/a"
+  },
+  {
+    "id": 30,
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
+    "name": "LG Watch Style",
+    "category": "LG",
+    "year": 2017,
+    "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+    "price": "$392.38M"
+  }
+]
